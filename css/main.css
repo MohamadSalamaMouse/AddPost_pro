@@ -1,0 +1,26 @@
+body{
+    background: #f6f6f6;
+}
+nav .nav-wrapper{
+    padding-right: 20px;
+}
+nav .brand-logo{
+    padding-left: 20px;
+}
+.sidenav{
+    padding-top:30px ;
+}
+/* articles */
+.article{
+    background: #fff; 
+    padding:20px ;
+    margin-top: 30px;
+}
+
+.article button{
+    padding: 10px;
+    color: #fff;
+    background:indigo ;
+    font-size: 16px;
+    border: 0;
+}
